@@ -1,0 +1,17 @@
+{
+  "name": "Independent System",
+  "short_name": "Indie System",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#090811",
+  "theme_color": "#090811",
+  "description": "Turn everyday goals into quests.",
+  "icons": [
+    {
+      "src": "assets/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
